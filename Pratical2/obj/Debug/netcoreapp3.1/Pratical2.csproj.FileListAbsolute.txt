@@ -1,0 +1,13 @@
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.exe
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.deps.json
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.runtimeconfig.json
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.runtimeconfig.dev.json
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.dll
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\bin\Debug\netcoreapp3.1\Pratical2.pdb
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.csprojAssemblyReference.cache
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.csproj.CoreCompileInputs.cache
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.AssemblyInfoInputs.cache
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.AssemblyInfo.cs
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.dll
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.pdb
+C:\Users\minht\RiderProjects\GeometryExample\Pratical2\obj\Debug\netcoreapp3.1\Pratical2.genruntimeconfig.cache

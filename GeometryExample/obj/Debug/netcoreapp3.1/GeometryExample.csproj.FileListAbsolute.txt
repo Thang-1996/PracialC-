@@ -1,0 +1,13 @@
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.exe
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.deps.json
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.json
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.runtimeconfig.dev.json
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\bin\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csprojAssemblyReference.cache
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.csproj.CoreCompileInputs.cache
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfoInputs.cache
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.AssemblyInfo.cs
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.dll
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.pdb
+C:\Users\minht\RiderProjects\GeometryExample\GeometryExample\obj\Debug\netcoreapp3.1\GeometryExample.genruntimeconfig.cache
